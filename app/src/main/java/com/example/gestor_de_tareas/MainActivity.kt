@@ -68,6 +68,8 @@ class MainActivity : ComponentActivity() {
                         title = "Settings",
                         selectedIcon = Icons.Filled.Settings,
                         unselectedIcon = Icons.Outlined.Settings,
+
+                        /**/
                     ),
                 )
 
